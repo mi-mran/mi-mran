@@ -1,6 +1,6 @@
 # Hi there! :shipit:
 
-My name is Muhammed Imran and I'm a final year materials science and engineering undergraduate at NTU, Singapore. I'm currently working on web development, data engineering and machine learning projects. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammed-imran-bin-khairul-alam/).
+My name is Muhammed Imran and I'm a final year materials science and engineering undergraduate at NTU, Singapore. I'm currently working on computer vision, data engineering and machine learning projects. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammed-imran-bin-khairul-alam/).
 
 ## :camera: Photography
 
