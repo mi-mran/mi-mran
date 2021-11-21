@@ -2,10 +2,6 @@
 
 My name is Muhammed Imran and I'm a final year materials science and engineering undergraduate at NTU, Singapore. I'm currently working on computer vision, data engineering and machine learning projects. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammed-imran-bin-khairul-alam/).
 
-## :camera: Photography
-
-Apart from coding and development, I also (try to) maintain a photography account to document my travels and experiences. You can find it [here](https://www.instagram.com/jesuisimmy/) and maybe say hi when you do visit! :blush:
-
 ## Technologies I Use
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
