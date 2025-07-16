@@ -1,6 +1,6 @@
 # Hi there! :shipit:
 
-My name is Muhammed Imran and I'm a materials science and engineering graduate from NTU, Singapore. I'm currently working on computer vision, data engineering and machine learning projects. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammed-imran-bin-khairul-alam/).
+My name is Muhammed Imran and I'm a PhD candidate at SUTD, Singapore. I'm currently working on the applications of foundation models for perception and manipulation of robotic arms. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammed-imran-bin-khairul-alam/).
 
 ## Technologies I Use
 
